@@ -1,0 +1,30 @@
+{
+  "name": "additional-helpers",
+  "version": "1.0.0",
+  "description": "additional helpers for development",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx build",
+    "test": "npx test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fantomax/additional-helpers.git"
+  },
+  "author": "Fantomax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fantomax/additional-helpers/issues"
+  },
+  "homepage": "https://github.com/Fantomax/additional-helpers#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "tea-helpers": "^1.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
